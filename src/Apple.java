@@ -4,6 +4,10 @@ public class Apple{
     Apple a = new Apple().myMethod();
   }
   public void myMethod(){
+
+
+
+
     System.exit(0);
   }
 }
